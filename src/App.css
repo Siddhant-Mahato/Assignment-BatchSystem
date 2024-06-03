@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+/* In App.css or Navbar.module.css */
+
+.back {
+  background-color: #FFFFFF !important; /* Use !important to override other styles */
+  min-height: 100vh; 
+}

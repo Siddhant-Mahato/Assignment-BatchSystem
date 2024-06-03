@@ -1,0 +1,13 @@
+/* In App.css or Navbar.module.css */
+
+.back {
+    background-color: #FFFFFF !important; /* Use !important to override other styles */
+}
+
+.mid{
+    display: flex;
+    justify-content: center; /* Center the content horizontally */
+    align-items: flex-start;
+}
+
+
